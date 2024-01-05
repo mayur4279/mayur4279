@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I’m currently learning<br>💬 Ask me about<br>
+ 🌱 I’m currently learning Devops <br>💬 Ask me about<br>
 
 
 # 💻 Tech Stack:
