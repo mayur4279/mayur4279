@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur4279&theme=white&hide_border=false&include_all_commits=false&count_private=false" width="44.5%"/></p>   
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur4279&theme=white&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur4279&theme=white&hide_border=false" width="400"/></p>
 
