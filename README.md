@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur4279&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur4279&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur4279&theme=white&hide_border=false&include_all_commits=false&count_private=false" /></p>   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur4279&theme=white&hide_border=false&include_all_commits=false&count_private=false" width="44.5%"/></p>   
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur4279&theme=white&hide_border=false" /></p>
 
